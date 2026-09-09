@@ -70,6 +70,9 @@ Designed and managed a normalized relational database structure in the source SQ
 
 ### 🖥️ Dashboard Interface & Features
 
+<img width="1024" height="581" alt="1788932782901-0cb07d98-416f-4246-a57c-6bce503bc936_1" src="https://github.com/user-attachments/assets/56369644-19e2-4e2a-a1cd-cb75a10e4b02" />
+
+
 The dashboard consists of two user-focused analytical pages designed to serve separate corporate roles: 
 
 1. **Overview Analysis Page (Executive View):** Tracks macro-trends, including a *Total_Tax by Month* area chart showing distinct activity spikes in May and September, alongside interactive regional charts showing **Maharashtra** (रु 6.0K) as the top geographic market.
